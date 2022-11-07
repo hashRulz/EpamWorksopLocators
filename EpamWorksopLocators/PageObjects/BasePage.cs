@@ -21,4 +21,6 @@ namespace EpamWorksopLocators.PageObjects
             Driver.GetInstance().Navigate().GoToUrl(host + url);
         }
     }
+    
+    //comment
 }
